@@ -2,9 +2,11 @@
 <html>
 <head>
   <title>Workbench</title>
+  <meta charset="UTF-8">
   <style>
     body {
       background-color: lightgray;
+      font-family: Verdana, Arial, sans-serif;
     }
     #workbench {
       position: relative;
@@ -22,10 +24,11 @@
       width: 100%
     }
 
-    .break {
+    .clear {
       clear: both;
       visibility: hidden;
     }
+
   </style>
   <script type="text/javascript" src="lib/quizApp.js"></script>
 </head>
@@ -34,6 +37,8 @@
 </body>
   <script type="text/javascript">
     quizApp.quizzes = [
+        "data/pictures1.js",
+        "data/pictures2.js",
         "data/wordOrder1.js",
         "data/multipleChoice1.js",
         "data/wordOrder2.js",
