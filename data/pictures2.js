@@ -7,12 +7,12 @@ quizApp.current.data = {
       "data/pictures/berlin.jpg"
     ],
   question: "Brandenburger Tor, Berlin",
-  correctAnswer: 3,
-    showSolutions: true ,
-    solutions: [
-      "Kölner Dom",
-      "Hamburger Michel",
-      "Münchener Frauenkirche",
-      "Brandenburger Tor, Berlin"
-    ]
+  solution: 3,
+  showSubtitles: true ,
+  subtitles: [
+    "Kölner Dom",
+    "Hamburger Michel",
+    "Münchener Frauenkirche",
+    "Brandenburger Tor, Berlin"
+  ]
 }

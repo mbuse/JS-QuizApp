@@ -7,9 +7,9 @@ quizApp.current.data = {
     "data/pictures/muenchen.jpg"
   ],
   question: "Hamburg",
-  correctAnswer: 1,
-  showSolutions: false ,
-  solutions: [
+  solution: 1,
+  showSubtitles: false ,
+  subtitles: [
     "Berlin",
     "Hamburg",
     "Köln",
