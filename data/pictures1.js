@@ -8,7 +8,7 @@ quizApp.current.data = {
   ],
   question: "Hamburg",
   correctAnswer: 1,
-  showSolutions: true ,
+  showSolutions: false ,
   solutions: [
     "Berlin",
     "Hamburg",
