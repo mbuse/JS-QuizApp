@@ -6,8 +6,7 @@ quizApp.current.data = {
       "data/pictures/muenchen.jpg",
       "data/pictures/berlin.jpg"
     ],
-  question: "Brandenburger Tor, Berlin",
-  solution: 3,
+  shuffle: true,
   showSubtitles: true ,
   subtitles: [
     "Kölner Dom",
