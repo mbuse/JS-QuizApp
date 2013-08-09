@@ -3,48 +3,13 @@
 <head>
   <title>Workbench</title>
   <meta charset="UTF-8">
-  <style>
-    body {
-      background-color: lightgray;
-      font-family: Verdana, Arial, sans-serif;
-    }
-    #workbench {
-      position: relative;
-      width: 600px;
-      /*height: 600px;*/
-      margin-left: -300px;
-      left: 50%;
-      bottom: 50%;
-      background-color: white;
-      box-shadow: 10px 10px 5px #888;
-      padding:25px;
-    }
-    #buttons {
-      text-align: right;
-      width: 100%
-    }
-
-    .clear {
-      clear: both;
-      visibility: hidden;
-    }
-
-  </style>
+  <link rel="stylesheet" type="text/css" href="css/quizApp.css"></link>
   <script type="text/javascript" src="lib/quizApp.js"></script>
+  <script type="text/javascript" src="quizzes.js"></script>
 </head>
 <body>
   <div id="workbench"></div>
   <script type="text/javascript">
-    quizApp.quizzes = [
-        "data/youtube1.js",
-        "data/pictures1.js",
-        "data/pictures2.js",
-        "data/wordOrder1.js",
-        "data/wordOrder2.js",
-        "data/wordOrder3.js",
-        "data/multipleChoice1.js",
-        "data/multipleChoice2.js"
-    ];
     quizApp.start();
   </script>
 </body>
