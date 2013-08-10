@@ -20,3 +20,6 @@ table.report th {
     padding-right: 8px;
     text-align: left;
 }
+td.rightAlign {
+    text-align: right;
+}
