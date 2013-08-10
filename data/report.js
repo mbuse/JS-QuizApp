@@ -1,4 +1,4 @@
 quizApp.current.data = {
   type: "report",
-  text: "This are your results:"
+  text: "These are your results:"
 }
