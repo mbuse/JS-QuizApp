@@ -1,4 +1,5 @@
 quizApp.current.data = {
   type: "preload",
-  text: "Loading all exercises..."
+  text: "Loading all exercises...",
+  autoComplete: true
 }
