@@ -1,5 +1,6 @@
 quizApp.current.data = {
   type: "pictures",
+  title: "Sightseeing",
   pictures: [
       "data/pictures/koeln.jpg",
       "data/pictures/hamburg.jpg",

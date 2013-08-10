@@ -1,5 +1,6 @@
 quizApp.current.data = {
   type: "pictures",
+  name: "Do you know Hamburg?",
   pictures: [
     "data/pictures/berlin.jpg",
     "data/pictures/hamburg.jpg",
