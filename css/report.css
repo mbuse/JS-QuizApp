@@ -1,0 +1,22 @@
+table.report {
+    width:80%;
+    border: 1px solid #ECECEC;
+    font-size: 12px;
+}
+.report td {
+    padding-right: 8px;
+    vertical-align: top;
+}
+table.report tr:nth-child(2n) {
+    background-color: #ECECEC;
+}
+table.report td.key {
+    color: #262626;
+}
+table.report th {
+    background: none repeat scroll 0 0 blue;
+    color:white;
+    font-weight: bold;
+    padding-right: 8px;
+    text-align: left;
+}
