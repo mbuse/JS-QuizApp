@@ -1,4 +1,5 @@
 quizApp.quizzes = [
+    "data/preload.js",
     "data/youtube1.js",
     "data/pictures1.js",
     "data/pictures2.js",

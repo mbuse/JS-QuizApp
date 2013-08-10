@@ -1,0 +1,14 @@
+#preload-message{
+    text-align: right;
+}
+#preload-progress-bar {
+    border: 1px solid black;
+    border-color: black;
+    height: 20px;
+    margin: 20px;
+}
+#preload-progress {
+    background-color: lightblue;
+    height: 100%;
+    width: 2px;
+}
