@@ -8,6 +8,7 @@ quizApp.quizzes = [
     "data/wordOrder1.js",
     "data/wordOrder2.js",
     "data/wordOrder3.js",
+    "data/pairs1.js",
     "data/multipleChoice1.js",
     "data/multipleChoice2.js",
     "data/report.js"
