@@ -1,0 +1,15 @@
+#facebookTest-friends {
+    width: 100%;
+}
+.facebookTest-friend {
+    background-color: lightgray;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 5px #888;
+}
+.facebookTest-friend img {
+    width: 100px;
+    height: 100px;
+}
