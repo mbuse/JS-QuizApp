@@ -6,6 +6,14 @@
    -moz-user-select:none;
    box-shadow: 5px 5px 5px #888;
 }
+#wordOrder-solution .word.connect-left {
+    padding-left:2px;
+    margin-left:2px;
+}
+#wordOrder-solution .word.connect-right {
+    padding-right:2px;
+    margin-right:2px;
+}
 #wordOrder-material {
   width: 550px;
   margin: 25px;
